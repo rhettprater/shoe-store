@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 6vw;
+  color: #0032BF;
+}
+
+header {
+  background-color: #C830FF;
+  background-image: url("nikeshoes.jpg");
+  padding: 10vw 2em;
+  background-position: center center;
+  background-size: cover;
+}
